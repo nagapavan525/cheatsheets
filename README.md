@@ -1,2 +1,2 @@
 # cheatsheets
-Ready to use scripts or cool hacks
+Ready to use pytorch, Deep Learning scripts and cool hacks of AIML
